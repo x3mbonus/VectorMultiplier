@@ -7,7 +7,7 @@ namespace Vectors
 	class VectorCreator
 	{
 	private:
-		int _size;
+		int _sizeT;
 		Vector * createFromConsole(string vectorName);
 		Vector * createRandom();
 	public:
