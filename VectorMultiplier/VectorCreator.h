@@ -8,7 +8,9 @@ namespace Vectors
 	{
 	private:
 	//Стефан: это наверно не скомпилируется. Будь повнимательнее!!
-		int _sizeT;
+		//���� :������ �� ������� Nihera ne ponyatno
+		//Ya ne v kugrse
+		int _size;
 		Vector * createFromConsole(string vectorName);
 		Vector * createRandom();
 	public:
